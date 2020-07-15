@@ -1,0 +1,2 @@
+rootProject.name='Bug Tracker'
+include ':app'

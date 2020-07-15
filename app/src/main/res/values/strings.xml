@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Bug Tracker</string>
+    <string name="server_client_id">123</string>
+</resources>
